@@ -1,0 +1,10 @@
+{
+  "name": "language-python",
+  "version": "0.1.0",
+  "description": "Python language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-python.git"
+  },
+  "license": "MIT"
+}
